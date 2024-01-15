@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit84-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ankit84-tech" /> </p>
 
-- 🔭 I’m currently working on **D-Election App**
+- 🔭 I’m currently working on **project001** an open sourece project
 
-- 🌱 I’m currently learning **Hyperledger fabric, solodity**
+- 🌱 I’m currently learning **blockchain, AI/ML, Web, Android*
 
-- 💬 Ask me about **expressjs, nodejs, react, python, java, android**
-
-- 📫 How to reach me **code7lancer@gmail.com**
+- 📫 How to reach me **ap8424856@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
