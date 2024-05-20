@@ -4,13 +4,9 @@
 - 🔭 I’m currently working on [LineX](https://github.com/ankit7927/LineX.git)  
   
 
-- 🌱 I’m currently learning Hyperledger and Docker  
-  
+- 🌱 I’m currently learning Android and Jetpack Compose  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ fact: I don't like CSS  
   
 
 <br/>  
