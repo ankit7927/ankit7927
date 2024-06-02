@@ -1,4 +1,4 @@
-### <div align="center">I'm Ankit, a full-stack  developer 👨‍💻</div>  
+### <div align="center">I'm Ankit, a Backend developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [LineX](https://github.com/ankit7927/LineX.git)  
